@@ -22,3 +22,4 @@ Este é um projeto de landing page desenvolvido utilizando o framework Bootstrap
 │── 📁 js
 │── index.html
 
+![Image](https://github.com/user-attachments/assets/6a94e053-a6c3-49ef-b44b-4f6d7a9a00b9)

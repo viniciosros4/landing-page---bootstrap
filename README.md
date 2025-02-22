@@ -22,5 +22,4 @@ Este é um projeto de landing page desenvolvido utilizando o framework Bootstrap
 │── 📁 js
 │── index.html
 
-![Foto-Projeto-Finans](img/Projeto-Finans)
 
